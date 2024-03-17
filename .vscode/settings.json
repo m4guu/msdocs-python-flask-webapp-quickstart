@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/b2874553-bde7-463c-80d7-260bbc241313/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/msdocs-python-flask-webapp-quickstart-m4guu",
+    "appService.deploySubpath": "."
+}
